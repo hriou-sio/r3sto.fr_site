@@ -6,24 +6,24 @@ Vous trouverez un accès aux productions et à leur documentation, mais aussi un
 
 ## Itérations
 
-1 - **Réusinage de la BDD** : Rendre la base de données opérationnelle.
-2 - **Étude de l'existant** : Étude détaillée des fonctionnalités existantes.
-3 - **Identification de l’équipe de développement** : Affichage du numéro d'équipe en pied de page.
-4 - **Gestion d'erreur** : Afficher un message d'erreur si une action existante est demandée.
-5 - **Chiffrement des mdp** : Amélioration du chiffrement des mots de passe.
-6 - **Top 4** : Affichage du classement des quatre restaurants les mieux notés.
-7 - **Note moyenne** : Affichage de la valeur numérique de la note moyenne d’un restaurant.
-8 - **Code postal** : Contrôle du format de saisie du code postal.
-9 - **Mail unique** : Détection d'un compte déjà existant lors de l'inscription.
-10 - **Injection SQL** : Faille de sécurité sur la page d'authentification.
-11 - **Types de cuisine** : Affichage des types de cuisine.
-12 - **Recherche par type** : Recherche par type de cuisine.
-13 - **Types de cuisine préférés** : Mettre en favoris certaine gastronomie.
+- **Réusinage de la BDD** : Rendre la base de données opérationnelle.
+- **Étude de l'existant** : Étude détaillée des fonctionnalités existantes.
+- **Identification de l’équipe de développement** : Affichage du numéro d'équipe en pied de page.
+- **Gestion d'erreur** : Afficher un message d'erreur si une action existante est demandée.
+- **Chiffrement des mdp** : Amélioration du chiffrement des mots de passe.
+- **Top 4** : Affichage du classement des quatre restaurants les mieux notés.
+- **Note moyenne** : Affichage de la valeur numérique de la note moyenne d’un restaurant.
+- **Code postal** : Contrôle du format de saisie du code postal.
+- **Mail unique** : Détection d'un compte déjà existant lors de l'inscription.
+- **Injection SQL** : Faille de sécurité sur la page d'authentification.
+- **Types de cuisine** : Affichage des types de cuisine.
+- **Recherche par type** : Recherche par type de cuisine.
+- **Types de cuisine préférés** : Mettre en favoris certaine gastronomie.
 
 ## Fonctionnalités ajoutées
 
-1 - **Mode nuit** : Un mode nuit qui offre un confort visuel à l'utilisateur.
-2 - **Carte des restaurants** : Une carte mondiale des restaurants qui les répertorie et affiche les détails !
+- **Mode nuit** : Un mode nuit qui offre un confort visuel à l'utilisateur.
+- **Carte des restaurants** : Une carte mondiale des restaurants qui les répertorie et affiche les détails !
 
 ## Technologies utilisées
 

@@ -34,5 +34,5 @@ Vous trouverez un accès aux productions et à leur documentation, mais aussi un
 
 ## Accéder et tester l'application
 
-- Pour accéder à l'application référez-vous à la fiche de réalisation professionnelle.
-- Pour tester l'application après l'avoir démarrée, vous trouverez les jeux d'essais correspondant dans chacune des itérations et fonctionnalités.
+- Pour accéder à l'application référez-vous au fichier "acceder_au_site".
+- Pour tester l'application après l'avoir démarrée, ouvrez le fichier "tester_application".
